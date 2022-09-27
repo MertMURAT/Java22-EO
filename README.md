@@ -1,6 +1,6 @@
 # Java22-EO-Hafta1-Odev
 
-Ders 5 - Hello World Uygulaması ile başlayalım => (recap)
+Ders 5 - Hello World Uygulaması ile başlayalım => (HelloWorld)
 
 Ders 6 - Değişkenler ve Değişken Kullanım İhtiyacı => (variables)
 
