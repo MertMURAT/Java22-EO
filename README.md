@@ -1,4 +1,4 @@
-# Java22-EO-Hafta1-Odev
+# Java22-EO
 
 Ders 5 - Hello World Uygulaması ile başlayalım => (HelloWorld)
 
